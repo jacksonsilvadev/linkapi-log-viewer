@@ -1,0 +1,23 @@
+{
+    "choose-file": "Choose file",
+    "warning": "Warning",
+    "file-no-exists": "The file \"{filename}\" doesn't exists",
+    "ext-not-accept": "The \"{ext}\" extension is not supported, try with a .log file.",
+    "error": "Something unexpected happened, stack: \"{stack}\"",
+    "new-file": "New file",
+    "clean": "Clean",
+    "scroll-to-end": "Scroll to end",
+    "global-settings": "Global Settings",
+    "accept": "Accept",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "text": "Text",
+    "background": "Background",
+    "regex": "Regular expression",
+    "font-size": "Font Size",
+    "min-font-size": "Min size 8",
+    "max-font-size": "Max size 30",
+    "required": "Required",
+    "patternChangedRestartAppWarning": "It is necessary to restart the application to pattern changes have effect"
+}

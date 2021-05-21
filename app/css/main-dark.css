@@ -1,0 +1,35 @@
+.theme--dark .v-application--wrap {
+  background-color: #1E1E1E;
+}
+
+.theme--dark.v-toolbar.v-sheet {
+  background-color: #1E1E1E;
+  border-color: #1E1E1E;
+  color: #FFFFFF;
+}
+
+.theme--dark .log-table th {
+  font-weight: 800;
+  color: #fff !important;
+  font-size: 0.90rem !important;
+}
+
+.theme--dark.v-navigation-drawer {
+  background-color: #1E1E1E;
+}
+
+.theme--dark .jv-code{
+  background-color: #1E1E1E
+}
+
+.theme--dark .jv-key, .theme--dark .jv-item.jv-object, .theme--dark .jv-item.jv-array {
+  color: #fff !important;
+}
+
+.theme--dark .jv-container.jv-light {
+  font-size: 12px;
+}
+
+.theme--dark .refresh-icon {
+  color: #fff !important;
+}

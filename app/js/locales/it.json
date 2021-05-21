@@ -1,0 +1,22 @@
+{
+    "choose-file": "Scegli file",
+    "warning": "Attenzione",
+    "file-no-exists": "Il file \"{filename}\" non esiste",
+    "ext-not-accept": "The \"{ext}\" extension is not supported, try with a .log file.",
+    "new-file": "Nuovo file",
+    "clean": "Pulisci",
+    "scroll-to-end": "Scorrere fino alla fine",
+    "global-settings": "Impostazioni generali",
+    "accept": "Accetta",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "close": "Chiudi",
+    "text": "Testo",
+    "background": "Sfondo",
+    "regex": "Espressione regolare",
+    "font-size": "Dimensione font",
+    "min-font-size": "Dimensione minima 8",
+    "max-font-size": "Dimensione massima 30",
+    "required": "Obbligatorio",
+    "patternChangedRestartAppWarning": "È necessario riaviare il programma per rendere effettive le modifiche dei pattern"
+}

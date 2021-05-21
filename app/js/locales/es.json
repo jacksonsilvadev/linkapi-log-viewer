@@ -1,0 +1,22 @@
+{
+    "choose-file": "Seleccionar archivo",
+    "warning": "Atención",
+    "file-no-exists": "El archivo \"{filename}\" no existe",
+    "ext-not-accept": "La extensión \"{ext}\" no es compatible, intente con un archivo .log",
+    "new-file": "Nuevo archivo",
+    "clean": "Limpiar",
+    "scroll-to-end": "Scroll al final",
+    "global-settings": "Configuración general",
+    "accept": "Aceptar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "close": "Cerrar",
+    "text": "Texto",
+    "background": "Fondo",
+    "regex": "Expresión regular",
+    "font-size": "Tamaño de la fuente",
+    "min-font-size": "Tamaño mínimo 8",
+    "max-font-size": "Tamaño máximo 30",
+    "required": "Obligatorio",
+    "patternChangedRestartAppWarning": "Para que los cambios de los patrones tengan efecto es necesario reiniciar la aplicación"
+}

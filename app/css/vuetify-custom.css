@@ -1,0 +1,12 @@
+html {
+    overflow: hidden;
+}
+
+.v-tabs__div {
+    text-transform: none;
+    width: 200px;
+}
+
+.v-tabs__item--active {
+    background-color: #fafafa;
+}

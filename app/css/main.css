@@ -1,0 +1,93 @@
+.sidebar-gradient {
+  background: linear-gradient(45deg,#44d289,#1fdcbd) no-repeat;
+  border-radius: unset;
+  border-top-right-radius: unset !important;
+  border-top-left-radius: unset !important;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.success-text {
+  color: #3cc896 !important;
+}
+
+.error-text {
+  color: #f44336 !important;
+}
+.pending-text {
+  color: #607d8b !important;
+}
+.noresults-text {
+  color: #b9b9b9 !important;
+}
+.rejected-text {
+  color: #ffb74d !important;
+}
+
+.alert-text {
+  color: #b46eda !important;
+}
+
+.success-background {
+  background-color: #3cc896 !important;
+}
+
+.error-background {
+  background-color: #f44336 !important;
+}
+
+.pending-background {
+  background-color: #2196f3 !important;
+}
+
+.noresults-background {
+  background-color: #607d8b !important;
+}
+
+.rejected-background {
+  background-color: #ffb74d !important;
+}
+
+.alert-background {
+  background-color: #b46eda !important;
+}
+
+.jv-container.boxed {
+  border-radius: 0 !important;
+}
+
+.timeline::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+	background-color: #F5F5F5;
+	border-radius: 10px;
+}
+
+.timeline::-webkit-scrollbar {
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+.timeline::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: #FFF;
+  background: linear-gradient(45deg,#44d289,#1fdcbd) no-repeat;
+	background-image: -webkit-gradient(linear,
+									   40% 0%,
+									   75% 84%,
+									   from(#44d289),
+									   to(#1fdcbd))
+}
+
+.max-min-height-timeline {
+  max-height: 77vh !important;
+  min-height: 77vh !important;
+}
+
+@media (min-height: 700px) {
+  .max-min-height-timeline {
+    max-height: 70vh !important;
+    min-height: 70vh !important;
+  }
+}
