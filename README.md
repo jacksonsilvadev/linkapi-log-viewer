@@ -1,10 +1,9 @@
 # LinkApi Log Viewer - V5
 
-<center>
-	<div style="text-align: center; width: 200px;">
-	![build/log-file.png](build/log-file.png)
-	</div>
-</center>
+<div  align="center">
+	<img style="width: 200px;" src="build/log-file.png" />
+</div>
+
 ## O que é?
 
 Esse aplicativo é um visualizador de logs para desenvolvimento na V5 que tenta emular a funcionalidade que temos dentro da plataforma. 
@@ -44,7 +43,7 @@ Então hoje para você fazer a refresh dos arquivos na tela, tem um botão para 
 
 ## Como utilizar?
 
-![https://s3.gifyu.com/images/linkapi-log-viewer.gif](https://s3.gifyu.com/images/linkapi-log-viewer.gif)
+<img src="build/linkapi-log-viewer.gif" alt="linkapi-log-viewer.gif" border="0" />
 
 ## Recomendações dos desenvolvedores
 
