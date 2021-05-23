@@ -1,7 +1,10 @@
 # LinkApi Log Viewer - V5
 
-![build/log-file.png](build/log-file.png)
-
+<center>
+	<div style="text-align: center; width: 200px;">
+	![build/log-file.png](build/log-file.png)
+	</div>
+</center>
 ## O que é?
 
 Esse aplicativo é um visualizador de logs para desenvolvimento na V5 que tenta emular a funcionalidade que temos dentro da plataforma. 
