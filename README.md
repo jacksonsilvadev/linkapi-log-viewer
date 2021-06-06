@@ -42,9 +42,16 @@ Inicialmente foi planejado usar um processamento do tipo polling com a técnica 
 Então hoje para você fazer a refresh dos arquivos na tela, tem um botão para isso ou você fecha a aba e abre novamente abrindo o novo arquivo gerado.
 
 ## Como utilizar?
+### Como gerar os arquivos de logs
+Automaticamente a partir da versão do sdk 1.0.95, conseguimos gerar os logs, automaticamente o log sera gerado apartir do nome do arquivo executado. Caso queira um arquivo com nome personalizado pode seguir esse exemplo:
+
+`node automations/teste.automations.js --logName=nomedoarquivo`
+
+### Abrindo no aplicativo
 <div align="center"> 
 	<img src="build/linkapi-log-viewer.gif" alt="linkapi-log-viewer.gif" border="0" />
 </div>
+
 ## Recomendações dos desenvolvedores
 
 O que implementamos no SDK ele da um append no arquivo de log conforme você for executando sua automação, então no fim você pode ter N sessões conforme você for executando esse arquivo vai ficando maior demorando mais para ser recarregado no aplicativo, então não se esqueçam de apagar os logs conforme eles forem ficando extremamente gigantes, nós podíamos ter colocado no SDK para ele apagar esse arquivo automaticamente depois de certo tamanho, mas preferimos dar controle total a vocês sobre o que querem visualizar. 
